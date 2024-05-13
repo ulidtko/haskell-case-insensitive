@@ -1,3 +1,7 @@
+1.2.2.0
+
+* Add instance for ShortByteString
+
 1.2.1.0
 
 *  Add traverse
